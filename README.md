@@ -1,10 +1,7 @@
 # sqauredraw
-competitor for hexdraw
-
+competitor for hexdraw && squareDraw
 
 npm install
 node server.js
 
-
-
-http://localhost:3003/index.html
+http://localhost:3004/index.html

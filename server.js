@@ -12,6 +12,6 @@ app.get('*', function (req, res) {
     res.sendFile('index.html', options);
 });
 
-var port = "3003";
+var port = "3004";
 app.listen(port);
 console.log("Web server listening on port: " + port);
